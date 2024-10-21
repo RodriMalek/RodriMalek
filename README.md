@@ -1,6 +1,6 @@
-## Hi there 👋
-
 <h1 aling="center"> Hola, yo soy Rodrigo Alonso Grande</h1>
+
+<img>
 <!--
 **RodriMalek/RodriMalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
