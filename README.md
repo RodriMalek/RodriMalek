@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://github.com/RodriMalek/RodriMalek/blob/main/438224005_3539836402947006_1055366179633385065_n.jpg" height="250"/> </p>
 
-<p align="left"> <img src="https://github.com/RodriMalek/RodriMalek/blob/main/banner.jpg" weight="500" height="250" /> </p>
+<p align="left"> <img src="https://github.com/RodriMalek/RodriMalek/blob/main/banner.jpg" weight="1200" height="250" /> </p>
 <!--
 **RodriMalek/RodriMalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
