@@ -1,6 +1,6 @@
 <h1 aling="center"> Hola, yo soy Rodrigo Alonso Grande</h1>
 
-<img source= "banner.jpg">
+<img source= "https://github.com/RodriMalek/RodriMalek/blob/main/banner.jpg">
 <!--
 **RodriMalek/RodriMalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
