@@ -1,6 +1,10 @@
-<h1 aling="center"> Hola, yo soy Rodrigo Alonso Grande</h1>
+<h1 align="center"> Hola, yo soy Rodrigo Alonso Grande</h1>
+<h2 align="center">Mi perfil profesional:</h2>
+<h3 align="center">"Ingeniería en Entornos Virtuales y Negocios Digitales"</h3>
 
-<img source= "https://github.com/RodriMalek/RodriMalek/blob/main/banner.jpg">
+<p align="center"> <img src="https://github.com/RodriMalek/RodriMalek/blob/main/438224005_3539836402947006_1055366179633385065_n.jpg" /> </p>
+
+<p align="left"> <img src="https://github.com/RodriMalek/RodriMalek/blob/main/banner.jpg" /> </p>
 <!--
 **RodriMalek/RodriMalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
