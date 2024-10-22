@@ -2,7 +2,7 @@
 <h2 align="center">Mi perfil profesional:</h2>
 <h3 align="center">"Ingeniería en Entornos Virtuales y Negocios Digitales"</h3>
 
-<p align="center"> <img src="https://github.com/RodriMalek/RodriMalek/blob/main/438224005_3539836402947006_1055366179633385065_n.jpg" /> </p>
+<p align="center"> <img src="https://github.com/RodriMalek/RodriMalek/blob/main/438224005_3539836402947006_1055366179633385065_n.jpg" height="150"/> </p>
 
 <p align="left"> <img src="https://github.com/RodriMalek/RodriMalek/blob/main/banner.jpg" /> </p>
 <!--
