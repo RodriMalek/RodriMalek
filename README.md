@@ -13,7 +13,8 @@
     </li>
     <li><strong>Habilidades</strong>
         <ul>
-            <li><strong>Lenguajes de programación:</strong> HTML, CSS, C#, R, Flutter</li>
+            <li><strong>Lenguajes de programación:</strong> HTML, CSS, C#, R, Dart.</li>
+          <li><strong>Softwares:</strong> Adobe Illustrator, Adobe Photoshop, Canva, Blender, Unity, Power BI, Visual Studio Code, CapCut, R Studio.</li>
             <li><strong>Idiomas:</strong> Español, Inglés A2</li>
             <li><strong>Experiencia en proyectos:</strong> Desarrollo de aplicaciones web, diseño gráfico y diseño UX/UI para experiencia de usuario</li>
         </ul>
@@ -60,7 +61,7 @@ Soy un profesionista creativo e imaginativo, con experiencia en diseño UX/UI pa
     <tr>
       <td>
         <h1>APLICACIÓN DE REALIDAD AUMENTADA "TECHNA"</h1>
-        <h3>Hecho @RodriMalek</h3>
+        <h3>Hecho @RodriMalek @chema1056</h3>
         <p></p>
         <a href="https://drive.google.com/file/d/1dmATMCmwDRMnCBjSwgsgxuTeZiIfuSe-/view?usp=drive_link" style="text-decoration: none;">
           <button style="background-color: #2ea44f; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
@@ -106,4 +107,17 @@ Soy un profesionista creativo e imaginativo, con experiencia en diseño UX/UI pa
   </table>
 </div>
 
+
+
 <p align="center"><img src="https://github.com/RodriMalek/RodriMalek/blob/main/banner.jpg" alt="Banner profesional"/></p>
+
+<ul>
+    <li>
+        <strong>CONTACTO</strong>
+    </li>
+</ul>
+
+- Teléfono: 241 177 0245
+- Instagram: _malekof
+- Behance: Malek Oficial
+- GitHub: RodriMalek
