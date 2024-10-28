@@ -119,5 +119,5 @@ Soy un profesionista creativo e imaginativo, con experiencia en diseño UX/UI pa
 
 - Teléfono: 241 177 0245
 - Instagram: _malekof
-- Behance: Malek Oficial
+- Behance: solo Rodrigo 
 - GitHub: RodriMalek
