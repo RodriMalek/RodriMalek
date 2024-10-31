@@ -114,13 +114,8 @@ Soy un profesionista creativo e imaginativo, con experiencia en diseño UX/UI pa
 
 <p align="center"><img src="https://github.com/RodriMalek/RodriMalek/blob/main/banner.jpg" alt="Banner profesional"/></p>
 
-<ul>
-    <li>
-        <strong>CONTACTO</strong>
-    </li>
-</ul>
 
-<div class="social-links">
+<div class="social-links" align="center">
     <a href="https://www.instagram.com/_malekof/" target="_blank">
         <img src="https://github.com/RodriMalek/RodriMalek/blob/main/instagram.png" alt="GitHub" width="40" height="40">
     </a>
