@@ -132,3 +132,11 @@ Soy un profesionista creativo e imaginativo, con experiencia en diseño UX/UI pa
         <img src="https://github.com/RodriMalek/RodriMalek/blob/main/github.png" alt="GitHub" width="40" height="40">
     </a>
 </div>
+<div class="contact-link">
+    <a href="mailto:rodrigomarquezgrande@gmail.com" target="_blank">
+        <img src="https://github.com/RodriMalek/RodriMalek/blob/main/email.png" alt="Correo" width="40" height="40">
+    </a>
+    <a href="tel:+522411770245">
+        <img src="https://github.com/RodriMalek/RodriMalek/blob/main/man.png" alt="Teléfono" width="40" height="40">
+    </a>
+</div>
