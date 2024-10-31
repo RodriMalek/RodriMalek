@@ -1,4 +1,16 @@
-<h1 align="center">¡Hola! Soy Rodrigo Alonso Grande</h1>
+<div align="center">
+    <h1 align="center">¡Hola! Soy Rodrigo Alonso Grande</h1>
+</div>
+<p align="center"><img src="https://github.com/RodriMalek/RodriMalek/blob/main/banner.jpg" alt="Banner profesional"/></p>
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Instagram_https%3A%2F%2Fwww.instagram.com%2F_malekof%2F">
+[![Behance](https://www.behance.net/malekoficial)]
+[![GitHub](https://github.com/RodriMalek)]
+[![Tik Tok](https://www.tiktok.com/@malek2303?is_from_webapp=1&sender_device=pc)]
+
+
+
+
 <h2 align="center">Bienvenido a mi perfil profesional</h2>
 <h4 align="center">Ingeniero en Entornos Virtuales y Diseñador</h4>
 <p align="center"><img src="https://github.com/RodriMalek/RodriMalek/blob/main/438224005_3539836402947006_1055366179633385065_n.jpg" alt="Logo personal" width="200"/></p>
