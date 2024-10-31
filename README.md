@@ -3,14 +3,6 @@
 </div>
 <p align="center"><img src="https://github.com/RodriMalek/RodriMalek/blob/main/banner.jpg" alt="Banner profesional"/></p>
 
-## 🌐 Sígueme:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/justRodrigo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_malekof) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@MALEK) 
-
-# 💻 Tecnologías:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-[![](https://visitcount.itsvg.in/api?id=RodriMalek&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ---
 # 🏫 Formación academica
 <br>
@@ -38,11 +30,15 @@ Soy un profesionista creativo e imaginativo, con experiencia en diseño UX/UI pa
 - 💻 Desarrollo de aplicaciones: Desarrollar aplicaciones de realidad aumentada para una experiencia creativa e inmersiva, creando contenido atractivo y funcional.
 - 🗒️ Analisís de datos: Usando herramientas dedicadas al analisís de datos para tener detalles exactos como interacciones, vistas, oyentes, etc.
 
-<ul>
-<li>
-        <strong>CERTIFICADOS</strong>
-    </li>
-</ul>
+## 🌐 Sígueme:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/justRodrigo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_malekof) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@MALEK) 
+
+# 💻 Tecnologías:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+[![](https://visitcount.itsvg.in/api?id=RodriMalek&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 📜 Certificados
 <div align="center">
   <table style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; width: 300px; text-align: center;">
     <tr>
@@ -59,10 +55,9 @@ Soy un profesionista creativo e imaginativo, con experiencia en diseño UX/UI pa
     </tr>
   </table>
 </div>
-    <li>
-        <strong>PROYECTOS</strong>
-    </li>
-</ul>
+
+# 📦 Proyectos
+
 <div align="center">
   <table style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; width: 300px; text-align: center;">
     <tr>
@@ -130,6 +125,10 @@ Soy un profesionista creativo e imaginativo, con experiencia en diseño UX/UI pa
     </tr>
   </table>
 </div>
+<br>
+<br>
+
+# 📥 Contáctame
 <div class="contac-links" align="center">
     <a href="mailto:rodrigomarquezgrande@gmail.com" target="_blank">
         <img src="https://github.com/RodriMalek/RodriMalek/blob/main/email.png" alt="Correo" width="40" height="40">
@@ -138,6 +137,8 @@ Soy un profesionista creativo e imaginativo, con experiencia en diseño UX/UI pa
         <img src="https://github.com/RodriMalek/RodriMalek/blob/main/man.png" alt="Teléfono" width="40" height="40">
     </a>
 </div>
+<br>
+<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RodriMalek&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
