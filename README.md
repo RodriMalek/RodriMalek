@@ -1,6 +1,7 @@
 <h1 align="center">¡Hola! Soy Rodrigo Alonso Grande</h1>
 <h2 align="center">Bienvenido a mi perfil profesional</h2>
 <h4 align="center">Ingeniero en Entornos Virtuales y Diseñador</h4>
+<link rel="stylesheet" href="style.css">
 <p align="center"><img src="https://github.com/RodriMalek/RodriMalek/blob/main/438224005_3539836402947006_1055366179633385065_n.jpg" alt="Logo personal" width="200"/></p>
 
 ---
