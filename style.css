@@ -1,46 +1,83 @@
 /* Estilos generales */
 body {
     font-family: Arial, sans-serif;
-    line-height: 1.6;
+    background-color: #f4f4f9;
     color: #333;
-    background-color: #f9f9f9;
     margin: 0;
-    padding: 20px;
-}
-
-/* Centrar el contenido del header */
-header, h1, h2, h3, h4, p {
+    padding: 0;
     text-align: center;
 }
 
-/* Estilos de la imagen de perfil */
+/* Título y subtítulos */
+h1, h2, h4 {
+    color: #2d2d2d;
+    margin: 0.5em 0;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 1.8em;
+    color: #4a4a4a;
+}
+
+h4 {
+    font-size: 1.3em;
+    color: #777;
+}
+
+/* Imagen de perfil */
 .perfil-img {
-    display: block;
-    margin: 0 auto;
     border-radius: 50%;
-    border: 3px solid #2ea44f;
-    max-width: 200px;
+    border: 2px solid #333;
+    margin-top: 20px;
+    width: 200px;
     height: auto;
 }
 
-/* Estilos de las listas */
+/* Estilos para listas */
 ul {
-    list-style-type: none;
+    list-style: none;
     padding: 0;
-    margin: 0 auto;
+    margin: 20px auto;
     max-width: 600px;
+    text-align: left;
 }
 
 ul li {
-    margin: 15px 0;
+    font-size: 1.1em;
+    margin: 10px 0;
 }
 
 ul li strong {
-    font-size: 1.1em;
     color: #2ea44f;
 }
 
-/* Botones dentro de las tablas */
+/* Sección de proyectos */
+table {
+    border: 1px solid #e1e4e8;
+    border-radius: 10px;
+    margin: 20px auto;
+    padding: 15px;
+    width: 80%;
+    max-width: 600px;
+    background-color: #fff;
+}
+
+table h1 {
+    font-size: 1.5em;
+    color: #333;
+}
+
+table h3 {
+    font-size: 1.1em;
+    color: #666;
+    margin: 0.5em 0;
+}
+
+/* Botones */
 button {
     background-color: #2ea44f;
     color: white;
@@ -49,35 +86,32 @@ button {
     border-radius: 5px;
     font-size: 16px;
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    transition: background-color 0.3s;
 }
 
 button:hover {
-    background-color: #24913b;
+    background-color: #22863a;
 }
 
-/* Estilos de las tablas para proyectos */
-table {
-    border: 1px solid #e1e4e8;
-    border-radius: 10px;
-    margin: 20px auto;
-    width: 80%;
-    max-width: 500px;
-    text-align: center;
-    padding: 20px;
+/* Banner */
+.banner-img {
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+    margin-top: 20px;
 }
 
-table h1 {
-    font-size: 1.5em;
-    color: #2ea44f;
-    margin: 0;
-}
-
-table h3 {
-    font-size: 1.1em;
+/* Contacto */
+.contacto {
+    font-size: 1.2em;
     color: #333;
-    margin: 10px 0;
 }
 
-table td {
-    padding: 10px;
+.contacto a {
+    color: #2ea44f;
+    text-decoration: none;
+}
+
+.contacto a:hover {
+    text-decoration: underline;
+}
