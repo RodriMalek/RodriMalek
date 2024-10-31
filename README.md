@@ -35,7 +35,6 @@ Soy un profesionista creativo e imaginativo, con experiencia en diseño UX/UI pa
 - 😙 Dieño UX/UI: Comprometido a crear interfaces visualmente agradables para una mejor experiencia del usuario.
 - 💻 Desarrollo de aplicaciones: Desarrollar aplicaciones de realidad aumentada para una experiencia creativa e inmersiva, creando contenido atractivo y funcional.
 - 🗒️ Analisís de datos: Usando herramientas dedicadas al analisís de datos para tener detalles exactos como interacciones, vistas, oyentes, etc.
-- 
 
 <ul>
 <li>
@@ -150,13 +149,5 @@ Soy un profesionista creativo e imaginativo, con experiencia en diseño UX/UI pa
     </a>
      <a href="https://github.com/RodriMalek" target="_blank">
         <img src="https://github.com/RodriMalek/RodriMalek/blob/main/github.png" alt="GitHub" width="40" height="40">
-    </a>
-</div>
-<div class="contact-link">
-    <a href="mailto:rodrigomarquezgrande@gmail.com" target="_blank">
-        <img src="https://github.com/RodriMalek/RodriMalek/blob/main/email.png" alt="Correo" width="40" height="40">
-    </a>
-    <a href="tel:+522411770245">
-        <img src="https://github.com/RodriMalek/RodriMalek/blob/main/man.png" alt="Teléfono" width="40" height="40">
     </a>
 </div>
