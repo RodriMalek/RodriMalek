@@ -1,0 +1,83 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Centrar el contenido del header */
+header, h1, h2, h3, h4, p {
+    text-align: center;
+}
+
+/* Estilos de la imagen de perfil */
+.perfil-img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 3px solid #2ea44f;
+    max-width: 200px;
+    height: auto;
+}
+
+/* Estilos de las listas */
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+ul li {
+    margin: 15px 0;
+}
+
+ul li strong {
+    font-size: 1.1em;
+    color: #2ea44f;
+}
+
+/* Botones dentro de las tablas */
+button {
+    background-color: #2ea44f;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #24913b;
+}
+
+/* Estilos de las tablas para proyectos */
+table {
+    border: 1px solid #e1e4e8;
+    border-radius: 10px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 500px;
+    text-align: center;
+    padding: 20px;
+}
+
+table h1 {
+    font-size: 1.5em;
+    color: #2ea44f;
+    margin: 0;
+}
+
+table h3 {
+    font-size: 1.1em;
+    color: #333;
+    margin: 10px 0;
+}
+
+table td {
+    padding: 10px;
