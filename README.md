@@ -117,18 +117,18 @@ Soy un profesionista creativo e imaginativo, con experiencia en diseño UX/UI pa
 
 <div class="social-links" align="center">
     <a href="https://www.instagram.com/_malekof/" target="_blank">
-        <img src="https://github.com/RodriMalek/RodriMalek/blob/main/instagram.png" alt="GitHub" width="40" height="40">
+        <img src="https://github.com/RodriMalek/RodriMalek/blob/main/instagram.png" alt="Instagram" width="40" height="40">
     </a>
     <a href="https://www.behance.net/malekoficial" target="_blank">
         <img src="https://github.com/RodriMalek/RodriMalek/blob/main/behance.png" alt="Behance" width="40" height="40">
     </a>
     <a href="mailto:rodrigomarquezgrande@gmail.com" target="_blank">
-        <img src="https://github.com/RodriMalek/RodriMalek/blob/main/email.png" alt="Behance" width="40" height="40">
+        <img src="https://github.com/RodriMalek/RodriMalek/blob/main/email.png" alt="Correo" width="40" height="40">
     </a>
      <a href="tel:+522411770245">
-        <img src="https://github.com/RodriMalek/RodriMalek/blob/main/llamada-telefonica.png" alt="Behance" width="40" height="40">
+        <img src="https://github.com/RodriMalek/RodriMalek/blob/main/llamada-telefonica.png" alt="Teléfono" width="40" height="40">
     </a>
      <a href="https://github.com/RodriMalek" target="_blank">
-        <img src="https://github.com/RodriMalek/RodriMalek/blob/main/github.png" alt="Behance" width="40" height="40">
+        <img src="https://github.com/RodriMalek/RodriMalek/blob/main/github.png" alt="GitHub" width="40" height="40">
     </a>
 </div>
