@@ -120,7 +120,20 @@ Soy un profesionista creativo e imaginativo, con experiencia en diseño UX/UI pa
     </li>
 </ul>
 
-- Teléfono: 241 177 0245
-- Instagram: _malekof
-- Behance: solo Rodrigo 
-- GitHub: RodriMalek
+<div class="social-links">
+    <a href="https://www.instagram.com/_malekof/" target="_blank">
+        <img src="https://github.com/RodriMalek/RodriMalek/blob/main/instagram.png" alt="GitHub" width="40" height="40">
+    </a>
+    <a href="https://www.behance.net/malekoficial" target="_blank">
+        <img src="https://github.com/RodriMalek/RodriMalek/blob/main/behance.png" alt="Behance" width="40" height="40">
+    </a>
+    <a href="mailto:rodrigomarquezgrande@gmail.com" target="_blank">
+        <img src="https://github.com/RodriMalek/RodriMalek/blob/main/email.png" alt="Behance" width="40" height="40">
+    </a>
+     <a href="tel:2411770245" target="_blank">
+        <img src="https://github.com/RodriMalek/RodriMalek/blob/main/llamada-telefonica.png" alt="Behance" width="40" height="40">
+    </a>
+     <a href="https://github.com/RodriMalek" target="_blank">
+        <img src="https://github.com/RodriMalek/RodriMalek/blob/main/github.png" alt="Behance" width="40" height="40">
+    </a>
+</div>
