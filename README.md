@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 align="center">¡Hola! Soy Rodrigo Alonso Grande</h1>
+    <h1 align="center">¡Hola! Soy Rodrigo Alonso Grande 🤩 </h1>
 </div>
 <p align="center"><img src="https://github.com/RodriMalek/RodriMalek/blob/main/banner.jpg" alt="Banner profesional"/></p>
 
