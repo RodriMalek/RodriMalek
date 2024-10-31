@@ -38,6 +38,26 @@ Soy un profesionista creativo e imaginativo, con experiencia en diseño UX/UI pa
 - 
 
 <ul>
+<li>
+        <strong>CERTIFICADOS</strong>
+    </li>
+</ul>
+<div align="center">
+  <table style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; width: 300px; text-align: center;">
+    <tr>
+      <td>
+        <h1>CERTIFICADOS</h1>
+        <h3>Hecho por @RodriMalek y @francisco0033</h3>
+        <p></p>
+        <a href="https://drive.google.com/drive/folders/1Gate-lRKPEHpdjfesyHxBC_g7dfe8xzC?usp=drive_link" style="text-decoration: none;">
+          <button style="background-color: #2ea44f; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+            Enlace a la carpeta.
+          </button>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
     <li>
         <strong>PROYECTOS</strong>
     </li>
