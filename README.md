@@ -1,13 +1,14 @@
 <div align="center">
     <h1 align="center">¡Hola! Soy Rodrigo Alonso Grande 🤩 </h1>
 </div>
+<h2 align="center">Bienvenido a mi perfil profesional 🎊 </h2>
 <p align="center"><img src="https://github.com/RodriMalek/RodriMalek/blob/main/baner.jpg"/></p>
 
 ---
 # 🏫 Formación academica
 <br>
         <ul>
-            <li>Grado en Técnico en Entornos Virtuales</li>
+            <li>Grado Técnico en Entornos Virtuales</li>
             <li>Universidad Tecnológica de Tlaxcala</li>
         </ul>
     </li>
@@ -16,14 +17,16 @@
    <br>
         <ul>
             <li><strong>🗄️ Lenguajes de programación:</strong> HTML, CSS, C#, R, Dart.</li>
-          <li><strong>⚙️ Softwares:</strong> Adobe Illustrator, Adobe Photoshop, Canva, Blender, Unity, Power BI, Visual Studio Code, CapCut, R Studio.</li>
+          <li><strong>⚙️ Softwares:</strong> Adobe Illustrator, Adobe Photoshop, Canva, Blender, Unity, Power BI, Visual Studio Code, CapCut, R Studio, Figma.</li>
             <li><strong>📖 Idiomas:</strong> Español, Inglés A2</li>
             <li><strong>🌠 Experiencia en proyectos:</strong> Desarrollo de aplicaciones web, diseño gráfico y diseño UX/UI para experiencia de usuario</li>
         </ul>
 </ul>
 
 # 👨‍💻 Acerca de mí
-Soy un profesionista creativo e imaginativo, con experiencia en diseño UX/UI para experiencia de usuarios, diseño gráfico, desarrollo de aplicaciones web y analista de datos. Capaz de plasmar ideas en visuales agradables para el público y el usuario, usando herramientas especializadas y me mantengo en tendencia para una mejor experiencia al cliente. Me gusta formar ideas creativas y ser 100% activo al escuchar las ideas y propuestas para un mejor desempeño, con capacidad de autocritca y facilidad de aprender nuevas cosas para un mejor desenvolvimiento.
+Soy creativo e imaginativo, con experiencia en diseño gráfico y en diseño UX/UI, capaz de plasar ideas en visuales agradables para el público. Soy 100% activo al escuchar ideas y propuestas para un mejor desempeño y formar ideas craativas, con capacidad de autocrítica y con facilidad de aprender cosas nuevas para lograr un mejor desenvolvimiento. Considero que soy puntual, responsable, amigable, con facilidad de trabajo en equipo, abierto al diálogo y a proponer ideas o mejoras para futuros proyectos.
+
+# 🤖 Habilidades
 
 - 🖌️ Diseño gráfico: Especializado en diseño gráfico y digital, creando atractivos visuales y modernos para una experiencia visualmente agradable.
 - 😙 Dieño UX/UI: Comprometido a crear interfaces visualmente agradables para una mejor experiencia del usuario.
@@ -33,8 +36,8 @@ Soy un profesionista creativo e imaginativo, con experiencia en diseño UX/UI pa
 ## 🏆 Experiencia profesional y estadías de TSU
 <ul>
     <li><strong> 🥥 Community Mannager en Facebook y Diseño para "Las Delicias Del Trópico bar":</strong> Se creó contenido y al mismo tiempo se planificaban las publicaciones de los mismos, se interactuaba con los usuarios y se intentaba llegar al público objetivo para quién estaba dirigido el contenido. Se hacía un monitoreo de la marca y se adaptaba a las circunstancias cambiantes y momentos determinados para crear contenidos con diseños de manera llamativa según el cliente lo quisiera.</li>
-    <li><strong> 🖱️ Reingeniería de software para "Proma Industrial SA de CV":</strong> Este proyecto se realizó en un periodo de cuatrimestral mayo-agosto 2024. Se actualizó y creo material para el sitio web de Proma Industrial en el gestor de contenido WordPress, llevando al mismo sitio a un nuevo diseño y al mismo tiempo respetando la escencia que el Ing. Antonio Arroyo Balderas quería seguir conservando en el contendio del mismo. Además de dar un mejor impacto en el Frontend, se editarón imágenes de los produtos y catalogos de las masrcas con las que la empresa trabajaba.</li>
-    <li><strong> ☕ Diseño de identidad de marca para "Café Alebrije Tlaxcala":</strong> "Café Alebrije Tlaxcala" es una cafetería ubicada en en Tlaxcala centro, un establecimeinto 100% familiar que busca crear una identidad más fuerte y profunda al lado de diseños tradicionales y al mismo tiempo con un estilo moderno. Es un proyecto que hasta el día de hoy sigue en curso, usando herramientas como Ilustrator y Photoshop para crear diseños que el cliente requiera, como papelería (tarjetas de presentación, targets, etc.), mockups, packing y un manual general de marca en el que el cliente sepa como usar su marca de la mejor manera para conectar con sus clientes y al mismo tiempo saber aprovehar el potencial de su marca.</li>
+    <li><strong> 🖱️ Reingeniería de software para "Proma Industrial SA de CV":</strong> Este proyecto se realizó en un periodo de cuatrimestral mayo-agosto 2024. Se actualizó y creo material para el sitio web de Proma Industrial en el gestor de contenido WordPress, llevando al mismo sitio a un nuevo diseño y al mismo tiempo respetando la escencia que gerente general de la empresa quería seguir conservando en el contenido del mismo. Además de dar un mejor impacto en el Frontend, se editarón imágenes de los produtos y catálogos de las masrcas con las que la empresa trabajaba.</li>
+    <li><strong> ☕ Diseño de identidad de marca para "Café Alebrije Tlaxcala":</strong> Es una cafetería ubicada en en Tlaxcala centro, un establecimeinto 100% familiar que busca crear una identidad más fuerte y profunda al lado de diseños tradicionales y al mismo tiempo con un estilo moderno. Es un proyecto que hasta el día de hoy sigue en curso, usando herramientas como Ilustrator y Photoshop para crear diseños que el cliente requiera, como papelería (tarjetas de presentación, targets, etc.), mockups, packing y un manual general de marca en el que el cliente sepa como usar su marca de la mejor manera para conectar con sus clientes y al mismo tiempo saber aprovehar el potencial de su marca.</li>
     <li><strong> 🌛 Crepas Mi Dulce Luna:</strong> Mi Dulce Luna es un establecimiento de comida rápida que buscaba proyectar una escencia fuerte pero al mismo tiempo delicada, siendo las crepas su principal elemento. Se creó un imagotipo que resaltará la escencia de su elemento principal pero sin dejar de lado el nombre. Al diseñar el imagotipo se creo un manual de marca que incluyó usos correctos e indebidos de la marca y el imagotipo, el imagotipo plasmado en la vida real y una ilustración que resaltaría en la pared del establecimiento.</li>
 </ul>
 
@@ -52,7 +55,7 @@ Soy un profesionista creativo e imaginativo, con experiencia en diseño UX/UI pa
     <tr>
       <td>
         <h1>CERTIFICADOS</h1>
-        <h3>Hecho por @RodriMalek y @francisco0033</h3>
+        <h3></h3>
         <p></p>
         <a href="https://drive.google.com/drive/folders/1Gate-lRKPEHpdjfesyHxBC_g7dfe8xzC?usp=drive_link" style="text-decoration: none;">
           <button style="background-color: #2ea44f; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
@@ -93,6 +96,10 @@ Soy un profesionista creativo e imaginativo, con experiencia en diseño UX/UI pa
         <a href="https://drive.google.com/file/d/1dmATMCmwDRMnCBjSwgsgxuTeZiIfuSe-/view?usp=drive_link" style="text-decoration: none;">
           <button style="background-color: #2ea44f; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
             Enlace al preview del proyecto.
+          </button> <br>
+            <a href="https://drive.google.com/file/d/1o9QGtaEQ06PHW8rDhOgtfp1jYh3X3QNk/view?usp=drive_link" style="text-decoration: none;">
+          <button style="background-color: #2ea44f; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+            Enlace al APK.
           </button>
         </a>
       </td>
@@ -121,12 +128,29 @@ Soy un profesionista creativo e imaginativo, con experiencia en diseño UX/UI pa
   <table style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; width: 300px; text-align: center;">
     <tr>
       <td>
-        <h1>PORTAFOLIO GENERAL DE TRAYECTORÍA</h1>
+        <h1>APLIACIÓN RA TEMÁTICA DE DÍA DE MUERTOS "YOLOTL"</h1>
+        <h3>Hecho por @RodriMalek</h3>
+        <p></p>
+        <a href="https://drive.google.com/drive/folders/1MepzxrTdWcJi3lDgU8fZmWHZTvoyoLl-?usp=drive_link" style="text-decoration: none;">
+          <button style="background-color: #2ea44f; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+            Enlace al APK.
+          </button>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; width: 300px; text-align: center;">
+    <tr>
+      <td>
+        <h1>PORTAFOLIO GENERAL DE TRAYECTORIA</h1>
         <h3>Hecho por @RodriMalek</h3>
         <p></p>
         <a href="https://www.behance.net/gallery/211193753/Portafolio-general-de-trayectoria" style="text-decoration: none;">
           <button style="background-color: #2ea44f; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
-            Enlace al proyecto.
+            Enlace al portafolio.
           </button>
         </a>
       </td>
