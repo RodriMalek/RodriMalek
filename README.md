@@ -162,7 +162,13 @@ Soy creativo e imaginativo, con experiencia en diseño gráfico y en diseño UX/
 <br>
 <br>
 
-# 📥 Contáctame
+## 📰 CURRICULUM VITAE PDF
+
+<div align="center">
+<a href = "https://github.com/RodriMalek/RodriMalek/blob/main/curriculum.pdf">Descarga mi CV en PDF 📂</a>
+</div>
+
+## 📥 Contáctame
 <div class="contac-links" align="center">
     <a href="mailto:rodrigomarquezgrande@gmail.com" target="_blank">
         <img src="https://github.com/RodriMalek/RodriMalek/blob/main/email.png" alt="Correo" width="40" height="40">
