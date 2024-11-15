@@ -4,7 +4,11 @@
 <h2 align="center">Bienvenido a mi perfil profesional 🎊 </h2>
 <p align="center"><img src="https://github.com/RodriMalek/RodriMalek/blob/main/baner.jpg"/></p>
 
----
+<div align="center">
+    <img src="https://media.giphy.com/media/H7CKd1GO6oiZQo7L5d/giphy.gif" alt="GIF Description">
+</div>
+
+
 # 🏫 Formación académica
 <br>
         <ul>
@@ -164,9 +168,16 @@ Soy creativo e imaginativo, con experiencia en diseño gráfico y en diseño UX/
 
 ## 📰 CURRICULUM VITAE PDF
 
-<div align="center">
-<a href = "https://github.com/RodriMalek/RodriMalek/blob/main/curriculum.pdf">Descarga mi CV en PDF 📂</a>
+  <div align="center">
+    <img src="https://media.giphy.com/media/5WJ6K7XnP2K2p3VWft/giphy.gif" alt="GIF" width="250">
+  </div>
+  <div align="center">
+    <a href="https://github.com/RodriMalek/RodriMalek/blob/main/curriculum.pdf">
+      Descarga mi CV en PDF 📂
+    </a>
+  </div>
 </div>
+
 
 ## 📥 Contáctame
 <div class="contac-links" align="center">
@@ -174,9 +185,15 @@ Soy creativo e imaginativo, con experiencia en diseño gráfico y en diseño UX/
         <img src="https://github.com/RodriMalek/RodriMalek/blob/main/email.png" alt="Correo" width="40" height="40">
     </a>
      <a href="tel:+522411770245">
-        <img src="https://github.com/RodriMalek/RodriMalek/blob/main/man.png" alt="Teléfono" width="40" height="40">
+        <img src="https://github.com/RodriMalek/RodriMalek/blob/main/man.png" alt="Teléfono" width="40" height="40"> 241 177 0245
     </a>
 </div>
+
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZlZnZveTFqZnpyajNzZ3p0YzB2c2pmanQ3YWFmaGtmdjh2bDNoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GPcDor27ptw2PiSwCB/giphy.gif" alt="GIF Description" width="250">
+</div>
+
+
 <br>
 <br>
 
