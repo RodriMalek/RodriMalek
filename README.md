@@ -24,7 +24,7 @@
         </ul>
 
 # 👨‍💻 Acerca de mí
-Soy creativo e imaginativo, con experiencia en diseño gráfico y en diseño UX/UI, capaz de plasmar ideas en visuales agradables para el público. Soy 100% activo al escuchar ideas y propuestas para un mejor desempeño y formar ideas creativas, con capacidad de autocrítica y con facilidad de aprender cosas nuevas para lograr un mejor desenvolvimiento. Considero que soy puntual, responsable, amigable, con facilidad de trabajo en equipo, abierto al diálogo y a proponer ideas o mejoras para futuros proyectos.
+Soy creativo e imaginativo, con experiencia en diseño gráfico y en diseño UX/UI, capaz de plasmar ideas en visuales agradables para el público. Soy 100% activo al escuchar ideas y propuestas para un mejor desempeño y formar ideas creativas, con capacidad de autocrítica y con facilidad de aprender cosas nuevas para lograr un mejor desenvolvimiento. Soy puntual, responsable, amigable, con facilidad de trabajo en equipo, abierto al diálogo y a proponer ideas o mejoras para futuros proyectos.
 
 # 🤖 Habilidades
 
