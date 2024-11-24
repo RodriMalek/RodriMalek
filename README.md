@@ -32,6 +32,7 @@ Soy creativo e imaginativo, con experiencia en diseño gráfico y en diseño UX/
 - 😙 Diseño UX/UI: Comprometido a crear interfaces visualmente agradables para una mejor experiencia del usuario.
 - 💻 Desarrollo de aplicaciones: Desarrollar aplicaciones de realidad aumentada para una experiencia creativa e inmersiva, creando contenido atractivo y funcional.
 - 🗒️ Análisis de datos: Usando herramientas dedicadas al análisis de datos para tener detalles exactos como interacciones, vistas, oyentes, etc.
+- 🏙️ Con disponibilidad de cambio de residencia. 😄
 
 ## 🏆 Experiencia profesional y estadías de TSU
 <ul>
